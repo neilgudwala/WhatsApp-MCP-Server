@@ -1,3 +1,4 @@
+.gitignore
 .env
 Baileys/
 node_modules/
